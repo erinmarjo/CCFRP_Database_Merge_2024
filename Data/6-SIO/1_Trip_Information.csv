@@ -1,0 +1,13 @@
+trip,area,site,month,day,year,vessel,captain,deckhand,num_volunteers,tackle,comments
+LJT01_24,LJ,MPA/REF,June,27,2024,Outer Limits,Paul Fischer,"Robert, John",10,"BAT, DPR, SBT",
+LJT02_24,LJ,MPA/REF,July,18,2024,Outer Limits,Paul Fischer,"Bogart, Ozzy",13,"BAT, DPR, SBT",HOBO Malfunction
+LJT03_24,LJ,MPA/REF,July,19,2024,Outer Limits,Paul Fischer,Robert,14,"BAT, DPR, SBT",
+LJT05_24,LJ,MPA/REF,July,24,2024,Outer Limits,Paul Fischer,"Silas, John",12,"BAT, DPR, SBT",Montana Died
+LJT06_24,LJ,MPA/REF,July,30,2024,Outer Limits,Paul Fischer,"Silas, John",15,"BAT, DPR, SBT",
+LJT12_24,LJ,MPA/REF,August,19,2024,Outer Limits,Paul Fischer,"Robert, Silas",14,"BAT, DPR, SBT",
+SWT04_24,SW,MPA/REF,July,23,2024,Seastar,Joe Cacciola,Jacob,13,"BAT, DPR, SBT",
+SWT07_24,SW,MPA/REF,August,1,2024,Seastar,Joe Cacciola,Jacob,11,"BAT, DPR, SBT",
+SWT08_24,SW,MPA/REF,August,6,2024,Seastar,Joe Cacciola,Jacob,11,"BAT, DPR, SBT",
+SWT09_24,SW,MPA/REF,August,7,2024,Seastar,Joe Cacciola,Jacob,18,"BAT, DPR, SBT",
+SWT10_24,SW,MPA/REF,August,14,2024,Seastar,Joe Cacciola,Paul,18,"BAT, DPR, SBT",
+SWT11_24,SW,MPA/REF,August,15,2024,Seastar,Joe Cacciola,Paul,14,"BAT, DPR, SBT",

@@ -1,0 +1,275 @@
+---
+title: "HSU Range Checks"
+author: "Erin Johnston"
+date: "2024-01-30"
+output: html_document
+---
+
+Range Checks for database QAQC for Cal Poly Humboldt (HSU) before 2023 database merge and before merge with SW DB 2007-2022. Each table was exported from the original DB files and saved as a csv with the following changes to the names of each column.
+
+**Trip Information**
+
+Trip ID -> trip
+Area -> area
+Site (MPA/ REF) -> site
+Month -> month
+Day -> day
+Year - > year
+Vessel -> vessel
+Deckhand -> deckhand
+.Volunteer Anglers -> num_volunteers
+Fishing tackle -> tackle
+Comments -> comments
+
+**Angler Information** May not make new headers for this datasheet
+
+Angler ID	
+Angler Name	
+First Name	
+Last Name	
+Email Address	
+Phone .	
+Mailing Address	
+Primary Regional Monitoring Group	
+Secondary Regional Monitoring Group	
+Do Not Contact	
+. Volunteer Days 2007	
+Dates Fished 2007	
+2007 Total (+/-) Fishing Time (days)	
+. Volunteer Days 2008	
+Dates Fished 2008	
+2008 Total (+/-) Fishing Time (days)	
+. Volunteer Days 2009	
+Dates Fished 2009	
+2009 Total (+/-) Fishing Time (days)	
+. Volunteer Days 2010	
+Dates Fished 2010	
+2010 Total (+/-) Fishing Time	
+. Volunteer Days 2011	
+Dates Fished 2011	
+2011 Total (+/-) Fishing Time	
+. Volunteer Days 2012	
+Dates Fished 2012	
+2012 Total (+/-) Fishing Time	
+. Volunteer Days 2013	
+Dates Fished 2013	
+2013 Total (+/-) Fishing Time	
+. Volunteer Days 2014	
+Dates Fished 2014	
+2014 Total (+/-) Fishing Time	
+. Volunteer Days 2015	
+Dates Fished 2015	
+2015 Total (+/-) Fishing Time	
+. Volunteer Days 2016	
+Dates Fished 2016	
+2016 Total(+/-) Fishing Time	
+. Volunteer Days 2017	
+Dates Fished 2017	
+2017 Total (+/-) Fishing Time (mins)	
+. Volunteer Days 2018	
+Dates Fished 2018	
+2018 Total (+/-) Fishing Time (mins)	
+. Volunteer Days 2019	
+Dates Fished 2019	
+2019 Total (+/-) Fishing Time (mins)	
+. of Volunteer Days 2020	
+Dates Fished 2020	
+2020 Total (+/-) Fishing Time (mins)	
+. Volunteer Days 2021	
+Dates Fished 2021	
+2021 Total (+/-) Fishing Time (mins)	
+. Volunteer Days 2022	
+Dates Fished 2022	
+2022 Total (+/-) Fishing Time (mins)	
+. Volunteer Days 2023	
+Dates Fishes 2023	
+2023 Total (+/-) Fishing Time (mins)
+
+
+**Drift Information**
+Drift ID -> drift
+Trip ID	-> trip
+ID Cell per Trip	-> id_cell_trip
+Grid Cell ID	-> grid_cell
+Site (MPA/ REF)	-> site
+Drifting or Holding Station	-> drift_hold
+Start Search Time	-> st_search_time
+End Search Time	-> end_search_time
+Start Time	-> st_time
+End Time	-> end_time
+Drift Time (hrs)	-> drift_time
+BAR (+/- mins) Fishing Time	-> bar_time
+FLY (+/- mins) Fishing Time	-> fly_time
+BAT (+/- mins) Fishing Time	-> bat_time
+DPR (+/- mins) Fishing Time	-> dpr_time
+SBT (+/- mins) Fishing Time	-> sbt_time
+Total (+/-) Time (hrs)	-> tot_time
+Number of BAT fishers	-> num_bat
+Number of FLY fishers	-> num_fly
+Number of DPR fishers	-> num_dpr
+Number of SBT fishers	-> num_sbt
+Number of BAR fishers	-> num_bar
+Total . Anglers Fishing	-> num_anglers
+Total Angler Hrs	-> angler_hours
+ST_LatDD	-> st_lat
+ST_LonDD	-> st_lon
+Start Lat/Lon GPS Waypoint	-> st_waypoint
+Start Lat/Lon waypoint_link	-> st_link
+End_LatDD	-> end_lat
+End_LonDD	-> end_lon
+End Lat/Lon GPS Waypoint	-> end_waypoint
+End Lat/Lon waypoint_link	-> end_link
+Drift Length (m)	-> drift_length
+Recorder	-> recorder
+Tag Crew	-> tag_crew
+Surface T (instrument, C)	-> surface_temp
+Depth T ( instrument, C)	-> depth_temp
+SWT (vessel, F)	-> swt
+Relief (1-3)	-> relief
+Start Depth (ft)	-> st_depth
+End Depth (ft) -> end_depth
+Lingcod Bar Weight (oz)	-> bar_weight
+Lead Weight (oz)	-> lead_weight
+SBT Tail Length (in)	-> sbt_tail_length
+SBT Head Weight (oz)	-> sbt_head_weight
+. Seals	-> seals
+. Sea Lions	-> sea_lions
+Total Fishes Caught	-> num_fishes_caught
+Cloud Cover (0-3)	-> clouds
+Obs Wind Speed (kt)	-> wind_speed
+Obs Wind Direction	-> winder_direction
+Obs Swell Height (ft)	-> swell_height
+Secchi Depth (m)	-> secchi_depth
+Comments	-> comments
+Excluded Drift Comment	-> excluded_comments
+Exclude:Gear-Specific CPUE -> excluded_gear
+
+**Caught Fishes**
+Fish ID	-> fish_id
+Drift ID	-> drift
+Species Code	-> species
+Fork Length (mm)	-> FL_mm
+Total Length (mm)	-> TL_mm
+Tag ID	-> tag
+Gear Type	-> gear_type
+Station .	-> station
+Angler ID	-> angler_id
+Depth Released (ft)	-> depth_release
+Lat Released (DD)	-> lat_release
+Lon Released (DD)	-> lon_release
+Sex	-> sex
+Condition 0 -> con_0	
+Condition 1	-> con_1
+Condition 2	-> con_2
+Condition 3	-> con_3
+Condition 4	-> con_4
+Condition 5	-> con_5
+Condition 6	-> con_6
+Condition 7	-> con_7
+Condition 8	-> con_8
+All Conditions	-> all_con
+Retained	-> retained
+Recapture	-> recapture
+Comments	-> comments
+GPS Waypoint	-> gps_waypoint
+waypoint_link	-> waypoint_link
+Length (cm) -> length_cm
+
+
+**Drift Check** This table was derived from the drift table, so the columns will be changed in the same way
+Drift ID	-> drift
+Grid Cell ID	-> grid_cell
+ST_LatDD	-> st_lat
+ST_LonDD	-> st_lon
+End_LatDD	-> end_lat
+End_LonDD -> end_lon
+
+
+
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE,
+                      warning = FALSE,
+                      message = FALSE)
+
+```
+
+```{r libraries}
+
+library(tidyverse)
+library(here)
+library(geosphere) ## for distm() calculating drift distances.
+
+```
+
+```{r data}
+
+fishes_hsu <- read_csv(here("Data/1-HSU", "4_Caught_Fishes.csv"))
+drift_hsu <- read_csv(here("Data/1-HSU", "3_Drift_Information.csv"))
+trip_hsu <- read_csv(here("Data/1-HSU", "1_Trip_Information.csv"))
+drift_check_dat <- read_csv(here("Data/1-HSU", "HSU_Drift_Check.csv"))
+
+```
+
+
+```{r fishes range check}
+
+## get back to cm - checking FL and TL line up and range check for min and max sizes by species
+min_max_len <- fishes_hsu %>%
+  group_by(species) %>%
+  summarise(min_FL = round(min(FL_mm, na.rm = TRUE)/10, digits = 0),
+            max_FL = round(max(FL_mm, na.rm = TRUE)/10, digits = 0),
+            min_TL = round(min(TL_mm, na.rm = TRUE)/10, digits = 0),
+            max_TL = round(max(TL_mm, na.rm = TRUE)/10, digits = 0))
+
+## making sure difference between FL and TL is not too great and that generally, TL is greater than FL
+fl_tl <- fishes_hsu %>%
+  select(fish_id, drift, species, FL_mm, TL_mm) %>%
+  mutate(size_diff = TL_mm-FL_mm)
+
+## making sure all species listed make sense for HSU
+sp_list <- unique(fishes_hsu$species)
+
+## make sure number of fishes caught matches number fishes reported on drift information
+## cannot complete this because total number of fishes caught not recorded
+num_caught <- fishes_hsu %>%
+  group_by(drift) %>%
+  count()
+
+## finding fishes with no angler ID
+no_angler <- fishes_hsu %>%
+  filter(is.na(angler_id))
+
+## making sure the only missing gear is when there is no angler ID
+no_gear <- fishes_hsu %>%
+  filter(is.na(gear_type))
+
+## finding fishes with no species code
+no_spp <- fishes_hsu %>%
+  filter(is.na(species))
+
+```
+
+
+```{r drift range check}
+
+## drift lengths are not recorded
+
+## drift angler off time
+sum(drift_hsu$bar_time) + sum(drift_hsu$fly_time) + sum(drift_hsu$bat_time) + sum(drift_hsu$sbt_time) + sum(drift_hsu$dpr_time)
+
+
+```
+
+```{r drift distances}
+
+drift_check_dat_distance <- drift_check_dat %>%
+  rowwise() %>%
+  mutate(distance = distm(c(st_lon, st_lat), c(end_lon, end_lat), fun = distHaversine),
+         distance = round(distance, digits = 0),
+         distance = as.numeric(distance))
+
+
+```
+

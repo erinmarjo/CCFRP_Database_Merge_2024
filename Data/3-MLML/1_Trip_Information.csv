@@ -1,0 +1,13 @@
+trip,area,site,month,day,year,vessel,captain,deckhand,num_volunteers,tackle,comments
+ANT01_24,AN,MPA/REF,July,16,2024,New Captain Pete,Meylnda D.,Meghan F.,10,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Super nice weather
+ANT02_24,AN,MPA,July,17,2024,New Captain Pete,Melynda D.,Meghan F.,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Very windy causing very fast drifts and rough weather. Only sampled 3 grid cells
+ANT03_24,AN,REF,July,18,2024,New Captain Pete,Melynda D.,Meghan F.,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+ANT04_24,AN,MPA/REF,August,6,2024,New Captain Pete,Melynda D.,Meghan F.,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+ANT05_24,AN,MPA,August,7,2024,New Captain Pete,Melynda D.,Meghan F.,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+ANT06_24,AN,REF,August,8,2024,New Captain Pete,Melynda D.,Meghan F.,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+PLT01_24,PL,MPA/REF,July,23,2024,New Horizon,Andrew Z.,Kevin K.,10,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+PLT02_24,PL,MPA,July,24,2024,New Horizon,Andrew Z.,Alfredo C.,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+PLT03_24,PL,REF,July,25,2024,New Horizon,Andrew Z.,Kevin K.,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Slow fishing
+PLT04_24,PL,MPA/REF,August,27,2024,New Horizon,Andrew Z.,Kevin K.,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+PLT05_24,PL,MPA,August,28,2024,New Horizon,Andrew Z.,Kevin K.,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+PLT06_24,PL,REF,August,29,2024,New Horizon,Andrew Z.,Kevin K,7,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",

@@ -1,0 +1,13 @@
+trip,area,site,month,day,year,vessel,captain,deckhand,num_volunteers,tackle,comments
+CMT01_24,CM,MPA,June,26,2024,Fishy Business,Matt Dallam,,2,"BAT, FLY, BAR, SBT","4 science crew, 2 volunteer anglers, captain and 2 science crew contributed as anglers (switched off);  SBT: H099, FLY:H116, BAR:H115, BAT:H117/H118"
+CMT02_24,CM,REF,June,27,2024,Fishy Business,Matt Dallam,,3,"BAT, FLY, BAR, SBT","3 science crew, 2 volunteer anglers, captain and 2 science crew contributed as anglers (switched off) - SBT:H099, FLY:H120, BAT:H119, BAR: H117/H118"
+CMT03_24,CM,MPA,July,30,2024,Fishy Business,Matt Dallam,,3,"BAT, FLY, BAR, SBT","3 science crew, 1 PI, 2 volunteer anglers, captain and PI contributed as anglers -SBT: H099, BAR: H122, BAT:H005, FLY: H123"
+CMT04_24,CM,REF,July,31,2024,Fishy Business,Matt Dallam,,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler, -SBT: H099, FLY:H058/H132, BAR: H124, BAT: H125. Captain-in-training choosing drifts (Lloyd Petrungaro, angler ID# H058)."
+CMT05_24,CM,MPA,August,3,2024,Fishy Business,Matt Dallam,,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler; SBT: H099, FLY:H105, BAR:H127 , BAT:H126"
+CMT06_24,CM,REF,August,4,2024,Fishy Business,Matt Dallam,,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler; SBT: H099, FLY:H100, BAR:H085/H053, BAT:H053/H085"
+TMT01_24,TM,MPA,July,8,2024,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler. -SBT: A488, BAR: H097, BAT: H110, FLY: H056"
+TMT02_24,TM,REF,July,9,2024,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler. -SBT: A488, BAR: H097, BAT: H121, FLY: H056"
+TMT03_24,TM,MPA,August,7,2024,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler; SBT: A656, BAR: H097, BAT: H128, FLY: H084"
+TMT04_24,TM,REF,August,8,2024,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler; SBT: A656, BAR: H097, BAT: H128, FLY: H110"
+TMT05_24,TM,MPA,August,17,2024,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler; SBT: H129 , BAR:H097, BAT:H131, FLY: H130"
+TMT06_24,TM,REF,August,18,2024,Kyndall Lynn,Kyndall Lynn,Richard Masingale,3,"BAT, FLY, BAR, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler; SBT: B138/A872/B139 , BAR:H097, BAT: B138/A872/B139 , FLY: B138/A872/B139"

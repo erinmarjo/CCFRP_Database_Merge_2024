@@ -1,0 +1,13 @@
+trip,area,site,month,day,year,vessel,captain,deckhand,num_volunteers,tackle,comments
+AIT07-24,AI,Both,October,15,2024,Aloha Spirit,Pat,"Angel, Bubba",13,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+AIT08_24,AI,Both,October,16,2024,Aloha Spirit,Pat,"Angel, Sam",13,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+AIT09_24,AI,Both,October,17,2024,Aloha Spirit,Angel,Izzy,14,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+AIT10_24,AI,Both,October,23,2024,Aloha Spirit,Angel,Izzy,16,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+AIT11_24,AI,Both,October,24,2024,Aloha Spirit,Angel,"Izzy, Blair",13,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+AIT12_24,AI,Both,October,25,2024,Aloha Spirit,Angel,Brian,11,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+CPT01_24,CP,Both,September,13,2024,Stardust,Sal,"Larry, John, Luke",16,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+CPT02_24,CP,Both,September,19,2024,Stardust,Sal,"Larry, John, Luke",16,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+CPT03_24,CP,Both,September,24,2024,Stardust,Sal,"Larry, John, Luke",13,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+CPT04_24,CP,Both,September,25,2024,Stardust,Sal,"Larry, John, Luke",13,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+CPT05_24,CP,Both,September,26,2024,Stardust,Sal,"Larry, John, Luke",14,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
+CPT06_24,CP,Both,September,27,2024,Stardust,Sal,"Larry, John, Luke",16,"SBT, DPR, BAT","FOR FISHES WITH NO FL, USE TL AS FL"
